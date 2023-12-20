@@ -73,3 +73,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.uno{
+    position: absolute;
+    top: 100px;
+}
+.dos{
+   position: absolute;
+    top: 100px;
+    right: 50px;
+}
